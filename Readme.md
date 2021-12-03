@@ -25,7 +25,7 @@ python manage.py createsuperuser
 ```
 ## Functionalities
 - [x] User Authentication
-- [x] Gender Based Search
+- [x] Search
 - [x] Database CRUD
 - [x] User Authorization
 - [x] Profile Image
@@ -34,8 +34,8 @@ python manage.py createsuperuser
 
 # Development Environment
 
-1. Visual studio Code was the development tool used in developing this App. This is one of my favorites because it is lightweight and flexible. 
-2. The Python programming language with python3 was used to complete this project. It is very easy to use,  unique language and serves as a multi purpose language. I used the DJango framework alongside SQLIte DB and Bootstrap library for the UI
+1. Visual studio Code and Android studio were the development tools used in developing the Backend and frontend applications respectively. These are our favourites because they're lightweight and flexible. 
+2. The Python programming language with python3 was used to complete the Backend project. It is very easy to use,  unique language and serves as a multi purpose language. I used the DJango framework alongside SQL DB and Kotlin for the frontend project.
 3. I used GitHub for version control. 
 
 
@@ -43,18 +43,33 @@ python manage.py createsuperuser
 
 * [Python](https://docs.python.org/3/)
 * [Stack Overflow](https://stackoverflow.com/)
-* [DJango Framework](https://docs.djangoproject.com/)
-* [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+* [FastAPI](https://fastapi.tiangolo.com/)
+* [Kotlin](https://kotlinlang.org/docs/home.html)
 
 
 ## Author
-You can get in touch with me on my LinkedIn Profile:
+You can get in touch with the team on our LinkedIn Profiles:
 
 #### Nelson Attah
 [![LinkedIn Link](https://img.shields.io/badge/Connect-Nelson-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://www.linkedin.com/in/nelson-attah-25330660/)
 
-You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-nelson-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/nelson-ust)
+#### John Stavast
+[![LinkedIn Link](https://img.shields.io/badge/Connect-John-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+)](https://www.linkedin.com/in/nelson-attah-25330660/)
+
+#### Zack Rochette
+[![LinkedIn Link](https://img.shields.io/badge/Connect-Zack-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+)](https://www.linkedin.com/in/nelson-attah-25330660/)
+
+#### William Harfield
+[![LinkedIn Link](https://img.shields.io/badge/Connect-William-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+)](https://www.linkedin.com/in/nelson-attah-25330660/)
+
+You can also follow our GitHub Profiles to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-nelson-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/nelson-ust)
+[![GitHub Follow](https://img.shields.io/badge/Connect-John-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/nelson-ust)
+[![GitHub Follow](https://img.shields.io/badge/Connect-Zack-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/nelson-ust)
+[![GitHub Follow](https://img.shields.io/badge/Connect-William-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/nelson-ust)
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
