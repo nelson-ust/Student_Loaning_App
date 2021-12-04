@@ -60,7 +60,7 @@ You can get in touch with the team on our LinkedIn Profiles:
 
 #### Zach Rochette
 [![LinkedIn Link](https://img.shields.io/badge/Connect-Zack-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
-)](https://www.linkedin.com/feed/)
+)](https://www.linkedin.com/in/zach-rochette/)
 
 #### William Harfield
 [![LinkedIn Link](https://img.shields.io/badge/Connect-William-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
