@@ -1,4 +1,4 @@
-<h1 align="center">Contact Manager App With Django</h1>
+<h1 align="center">Student Loaning App with Python FastAPI and Kotlin</h1>
 <a href="#">
   <div align="center">
     <img src="screenshot.png" width='700'/>
@@ -6,7 +6,7 @@
 </a>
 # Overview
 
-This is a simple Loan Management application that demonstrates the use of Python, Object oriented programming, OpenApi, SQL aas backend, With a Kotlin as frondend
+This is a simple Loan Management application that demonstrates the use of Python, Object oriented programming, FastApi, SQL DB as backend, With a Kotlin as frondend
 
 
 The application integrates a Python API Backend application with  SQL DB in a way to demontrating basic CRUD (Create,Read,Update and Delete) operations with a Kotlin mobile application.
@@ -19,10 +19,7 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 
-```
-To Access the Admin Panel
-python manage.py createsuperuser
-```
+
 ## Functionalities
 - [x] User Authentication
 - [x] Search
