@@ -55,9 +55,9 @@ You can get in touch with the team on our LinkedIn Profiles:
 [![LinkedIn Link](https://img.shields.io/badge/Connect-John-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://www.linkedin.com/in/nelson-attah-25330660/)
 
-#### Zack Rochette
+#### Zach Rochette
 [![LinkedIn Link](https://img.shields.io/badge/Connect-Zack-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
-)](https://www.linkedin.com/in/nelson-attah-25330660/)
+)](https://www.linkedin.com/in/zach-rochette/)
 
 #### William Harfield
 [![LinkedIn Link](https://img.shields.io/badge/Connect-William-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
